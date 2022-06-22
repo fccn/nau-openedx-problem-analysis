@@ -4,13 +4,11 @@
 # In[1]:
 
 
-import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import tkinter as tk
 from tkinter import filedialog
-from openpyxl import load_workbook
 
 
 # In[2]:
